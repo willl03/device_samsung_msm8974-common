@@ -39,7 +39,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     audio.offload.buffer.size.kb=32 \
     audio.offload.gapless.enabled=false \
     av.offload.enable=true \
-    media.stagefright.use-awesome=true
+    media.stagefright.use-awesome=false
 
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.opengles.version=196608
